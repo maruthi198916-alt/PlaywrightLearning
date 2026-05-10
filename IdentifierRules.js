@@ -16,6 +16,13 @@ var $=10;
 var _ =30;
 
 var ma123="Maruthi";
+var ma123="Maruthi";
 
 console.log(Name);
+console.log(ma123);
+
+let _a=100;
+let _b=200;
+console.log(_a+"   "+_b);
+
 
